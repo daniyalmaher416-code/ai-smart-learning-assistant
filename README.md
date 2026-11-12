@@ -4,7 +4,7 @@
 
 SmartStudy AI is a web app that helps students learn: it **generates quizzes**, **explains difficult topics**, and **creates personalized study plans**. The AI is powered by the **Google Gemini API** (needs internet and a free API key).
 
-**Made by:** [Daniyal] | **Class  
+**Made by:** [Daniyal] | 
 **Event:** Science Exhibition | **Supervisor:** [Muhammad Qais]
 
 ---
